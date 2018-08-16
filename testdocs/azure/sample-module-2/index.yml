@@ -1,0 +1,18 @@
+### YamlMime:Module
+uid: learn-sandbox.sample-module-2
+title: Sample Module 2
+summary: This is the summary of the Sample Module
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- intermediate
+roles:
+- developer
+products:
+- Azure
+metadata:
+  title: Sample Module Page Title
+  description: Sample Module Page Description
+abstract: This is the abstract of the Sample Module
+units:
+- learn-sandbox.sample-module-2.unit-1
+achievement: learn-sandbox.sample-module-2.badge

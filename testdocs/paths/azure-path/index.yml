@@ -1,0 +1,20 @@
+### YamlMime:LearningPath
+uid: learn-sandbox.azure-path
+title: Sample Azure Learning Path
+summary: This is the summary of the Sample Azure Learning Path
+cardDescription: This is the card description of the Sample Azure Learning Path
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- intermediate
+roles:
+- developer
+products:
+- Azure
+prerequisites: This is the prerequisites text for the Sample Azure Learning Path
+metadata:
+  title: Sample Azure Learning Path Page Title
+  description: Sample Azure Learning Path Page Description
+modules:
+- learn-sandbox.sample-module
+- learn-sandbox.sample-module-2
+achievement: learn-sandbox.azure-path.trophy

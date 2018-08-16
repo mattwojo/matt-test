@@ -1,0 +1,22 @@
+### YamlMime:ModuleUnit
+uid: learn-sandbox.sample-module.unit-3-task-validation
+title: Sample Unit 3 (with Task Validation)
+metadata:
+  title: Sample Unit 3 with Task Validation Page Title
+  description: Sample Unit 3 with Task Validation Description
+durationInMinutes: 11
+interactive: azure-portal
+content: |
+  [!include[](includes/unit-3-task-validation.md)]
+tasks:
+- action: exists
+  environment: azure
+  hint: "Make sure the Virtual Machine name matches 'ConferenceDemo1' and that the VM is in a Resource Grouped named 'TrialsResourceGroup'"
+  azure:
+    resourceGroup: TrialsResourceGroup
+    resource:
+      type: Microsoft.Compute/virtualMachines
+      name: ConferenceDemo1
+      tags:
+        triplecrown: "true"
+        unitTitle: "Exercise: Create a resource using PowerShell interactively"

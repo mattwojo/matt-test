@@ -1,0 +1,39 @@
+##YamlMime:ModuleUnit
+uid: learn-sandbox.sample-module.unit-4-quiz
+title: Sample Unit 4 with Quiz
+metadata:
+  title: Sample Unit 4 with Quiz Page Title
+  description: Sample Unit 4 with Quiz Description
+durationInMinutes: 13
+content: |
+  [!include[](includes/unit-4-quiz.md)]
+quiz:
+  questions:
+  - content: 'What this markdown file talking about:'
+    choices:
+    - content: Brainstorming of markdown file format for quiz.
+      correctExplanation: Why this answer is correct
+      incorrectExplanation: Why this answer is incorrect
+      isCorrect: true
+    - content: Brainstorming of markdown file format for quiz. Part 2
+      isCorrect: false
+  - content: 'What this markdown file talking about:'
+    choices:
+    - content: Brainstorming of markdown file format for quiz.
+      isCorrect: false
+    - content: Brainstorming of markdown file format for quiz. Part 2
+      isCorrect: false
+    - content: Brainstorming of markdown file format for quiz. Part 3
+      isCorrect: true
+    - content: Brainstorming of markdown file format for quiz. Part 4
+      isCorrect: false
+  - content: 'What this markdown file talking about:'
+    choices:
+    - content: Brainstorming of markdown file format for quiz.
+      isCorrect: true
+    - content: Brainstorming of markdown file format for quiz. Part 2
+      isCorrect: false
+    - content: Brainstorming of markdown file format for quiz. Part 3
+      isCorrect: true
+    - content: Brainstorming of markdown file format for quiz. Part 4
+      isCorrect: false
