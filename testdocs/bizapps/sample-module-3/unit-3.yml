@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: learn-sandbox.sample-module-3.unit-3
+title: Sample Unit 3 with Azure Portal
+metadata:
+  description: Sample Unit 3 Description
+interactive: azure-portal
+durationInMinutes: 12
+content: |
+  [!include[](includes/unit-1.md)]

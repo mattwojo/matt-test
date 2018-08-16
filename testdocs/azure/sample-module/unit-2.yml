@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: learn-sandbox.sample-module.unit-2
+title: Sample Unit 2 with Cloud Shell
+metadata:
+  description: Sample Unit 2 Description
+durationInMinutes: 11
+interactive: bash
+content: |
+  [!include[](includes/unit-2.md)]

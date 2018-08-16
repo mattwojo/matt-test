@@ -1,0 +1,9 @@
+### YamlMime:ModuleUnit
+uid: learn-sandbox.sample-module-2.unit-1
+title: Sample Unit 1 in Module 2
+metadata:
+  title: Sample Unit 1 in Module 2 Page Title
+  description: Sample Unit 1 Description
+durationInMinutes: 12
+content: |
+  [!include[](includes/unit-1.md)]

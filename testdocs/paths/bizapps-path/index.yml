@@ -1,0 +1,20 @@
+### YamlMime:LearningPath
+uid: learn-sandbox.bizapps-path
+title: Sample Bizapps Learning Path
+summary: This is the summary of the Sample Bizapps Learning Path
+cardDescription: This is the card description of the Sample Bizapps Learning Path
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- intermediate
+roles:
+- developer
+products:
+- Azure
+prerequisites: This is the prerequisites text for the Sample Bizapps Learning Path
+metadata:
+  title: Sample Bizapps Learning Path Page Title
+  description: Sample Bizapps Learning Path Page Description
+modules:
+- learn-sandbox.sample-module-2
+- learn-sandbox.sample-module-3
+achievement: learn-sandbox.bizapps-path.trophy
